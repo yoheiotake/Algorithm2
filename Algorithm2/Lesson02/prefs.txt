@@ -1,0 +1,9 @@
+aichi 700
+chiba 600
+fukuoka 500
+hokkaido 600
+hyogo 600
+kanagawa 900
+osaka 900
+saitama 700
+tokyo 1300
