@@ -43,7 +43,7 @@ Algorithm2
 グラフ
 ----------------
 
-### 最小スパニング木
+### 最小スパニング木問題
 ![my image](http://www.kki.yamanashi.ac.jp/~t11kf008/images/directed.gif)  
 
 ### 最短経路問題
